@@ -4,7 +4,10 @@ coverage/
 .idea/
 .wrangler/
 wrangler.jsonc
+wrangler.*.jsonc
+!wrangler.template.jsonc
 .dev.vars
+.dev.vars.*
 .env
 .env.*
 *.pem

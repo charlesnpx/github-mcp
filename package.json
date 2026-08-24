@@ -2,6 +2,7 @@
   "name": "github-mcp",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "A generic, read-only GitHub MCP connector for Claude and other remote MCP clients.",
   "engines": {

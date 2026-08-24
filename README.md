@@ -57,3 +57,7 @@ Results are live GitHub API responses, normalized into bounded JSON with canonic
 - OAuth codes, user tokens, installation tokens, client secrets, and private keys are never returned or intentionally logged.
 
 This project is intended as a personal or small-team connector, not a hosted multi-tenant service.
+
+## License
+
+This project is available under the [MIT License](LICENSE).
